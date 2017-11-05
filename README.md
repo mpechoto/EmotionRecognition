@@ -1,10 +1,10 @@
 # Emotion Recognition using Facial Landmarks, Python, DLib and OpenCV
 
-- Disciplina Computação Afetiva 
+- Affective Computing Course 
 - Prof. Dra. Paula Dornhofer Paro Costa 
 - FEEC Unicamp
 
-# Autor
+# Author
 
 - Murilo Marin Pechoto
 
